@@ -1,0 +1,68 @@
+15:15:54.791 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+15:15:54.824 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.2, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=5S6WUXWdm7zGZ4vUpQ4s, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=olatunbosunoshod_yaZnxX, BROWSERSTACK_FRAMEWORK=java, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=UltimateQA, BROWSERSTACK_SOURCE=java:eclipse:v1.0.3]
+15:18:20.956 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:18:20.958 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:18:20.960 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/UltimateQA
+15:18:20.960 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:18:20.961 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:18:20.962 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/UltimateQA
+15:18:23.681 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:18:23.682 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:18:23.684 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/UltimateQA
+15:18:23.685 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:18:23.685 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:18:23.687 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/UltimateQA
+15:19:35.817 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+15:19:35.837 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.2, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=5S6WUXWdm7zGZ4vUpQ4s, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=olatunbosunoshod_yaZnxX, BROWSERSTACK_FRAMEWORK=testng, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=UltimateQA, BROWSERSTACK_SOURCE=testng:eclipse:v1.0.3]
+15:19:35.845 [Worker-50: Launching mavenrun-e3779970-f878-4efb-8bf5-973eb32f6955] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:22:47.171 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:22:47.171 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:22:47.272 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/UltimateQA
+15:22:47.273 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:22:47.273 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:22:47.274 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/UltimateQA
+15:22:48.589 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:22:48.590 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:22:48.594 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/UltimateQA
+15:22:48.598 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:22:48.598 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:22:48.604 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/UltimateQA
+15:23:17.540 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+15:23:17.557 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.2, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=5S6WUXWdm7zGZ4vUpQ4s, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=olatunbosunoshod_yaZnxX, BROWSERSTACK_FRAMEWORK=testng, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=BrowserStack Sample, BROWSERSTACK_SOURCE=testng:eclipse:v1.0.3]
+15:23:17.560 [Worker-58: Launching mavenrun-c63c8e28-4efd-4861-89cc-3493896ae39c] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:04:42.780 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+00:04:43.188 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.2, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=5S6WUXWdm7zGZ4vUpQ4s, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=olatunbosunoshod_yaZnxX, BROWSERSTACK_FRAMEWORK=testng, BUILD_NAME=UltimateQA build, version=1.0, PROJECT_NAME=UltimateQA, BROWSERSTACK_SOURCE=testng:eclipse:v1.0.3]
+00:04:43.205 [Worker-32: Launching mavenrun-05aeb0df-f94e-4905-80fe-c8ca8a74d9a0] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:13:28.213 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:13:28.213 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:13:28.215 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/UltimateQA
+00:13:28.216 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:13:28.216 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:13:28.218 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/UltimateQA
+00:13:57.689 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:13:57.689 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:13:57.691 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/UltimateQA
+00:13:57.692 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:13:57.692 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:13:57.694 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/UltimateQA
+00:14:03.346 [Worker-45: Launching Runner] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:14:03.348 [Worker-45: Launching Runner] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:14:03.351 [Worker-45: Launching Runner] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:14:03.352 [Worker-45: Launching Runner] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.3}
+00:16:13.855 [Worker-45: Launching Executing clean in F__Users_Bluechip_eclipse-workspace_UltimateQA] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:21:08.579 [Worker-45: Launching UltimateQA] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:25:20.281 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:25:20.281 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:25:20.282 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/UltimateQA
+00:25:20.283 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:25:20.283 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:25:20.284 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/UltimateQA
+00:25:28.796 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:25:28.796 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:25:28.798 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/UltimateQA
+00:25:28.799 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:25:28.799 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:25:28.800 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/UltimateQA
+00:27:03.083 [Worker-57: Launching UltimateQA (1)] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:27:56.123 [Worker-55: Launching UltimateQA] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:30:24.274 [Framework stop - Equinox Container: 10ab8b96-bdda-404c-914f-d67e3beb4239] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...

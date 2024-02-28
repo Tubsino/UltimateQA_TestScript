@@ -5,7 +5,6 @@ import java.io.IOException;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-import utils.Utils;
 
 public class Listeners implements ITestListener {
 	
